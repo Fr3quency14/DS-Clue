@@ -1,0 +1,14 @@
+How often do you get a solution in fewer than 20 guesses? 
+Does this change depending on the theory you test (1, 2, 3)?
+
+RandomClue.java
+1: Didnt get answer in under 20 guesses.
+2: 1 out of 20
+3: 1 out of 20
+What is good or bad about this strategy?
+Not very efficient
+
+mySolution.java
+Theory 1: Got on 20th try every time.
+Theory 2: Got on 1st try every time.
+Theory 3: 20 out of 20
